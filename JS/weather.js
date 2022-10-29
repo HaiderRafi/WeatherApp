@@ -17,13 +17,7 @@ const getCity = async (city) => {
 
 }
 
-//calling city info function
 
-// getCity('delhi').then((data)=>{
-//     console.log("requst resolve",data);
-// }).catch((err)=>{
-//     console.log("some error in fetching",err.message);
-// })
 
 
 
